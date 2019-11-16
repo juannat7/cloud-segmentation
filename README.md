@@ -1,6 +1,6 @@
 # cloud-segmentation
 Kaggle Competition on Cloud Segmentation [Click here for detail](https://www.kaggle.com/c/understanding_cloud_organization/)
-
+![](https://storage.googleapis.com/kaggle-media/competitions/MaxPlanck/Teaser_AnimationwLabels.gif "Cloud Segmentation")
 ## Overview
 In this challenge, we are building a model to classify cloud organization patterns from satellite images. There are four classes of clouds used here: **fish, flower, gravel, sugar**
 
